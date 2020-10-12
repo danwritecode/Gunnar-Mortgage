@@ -182,11 +182,11 @@ export default {
       title: 'Gunnar Mortgage',
       meta: [
         { hid: 'description', name: 'description', content: "Make the mortgage or refi experience quick and painless. The one stop shop for all home financing needs."},
-        { hid: 'image', name: 'image', content: '' },
+        { hid: 'image', name: 'image', content: '/cta_banner.png' },
         { name: 'twitter:card', content: "summary_large_image"},
         { name: 'twitter:title', content: "Gunnar Mortgage"},
         { name: 'twitter:description', content: "Make the mortgage or refi experience quick and painless. The one stop shop for all home financing needs."},
-        { name: 'twitter:image', content: ""}
+        { name: 'twitter:image', content: "/cta_banner.png"}
       ]
     }
   },
