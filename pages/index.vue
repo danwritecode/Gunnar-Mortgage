@@ -150,7 +150,7 @@
       </div>
     </div>
 
-    <div class="relative bg-gray-800">
+    <div class="relative bg-gray-800 border-b-4 border-white">
       <div class="h-56 bg-gb-600 sm:h-72 md:absolute md:left-0 md:h-full md:w-1/2">
         <img class="w-full h-full object-cover" src="/cta_banner.png" alt="Support team">
       </div>
