@@ -19,7 +19,7 @@
       <div class="relative max-w-xl mx-auto px-4 sm:px-6 lg:px-8 lg:max-w-screen-xl">
         <div class="relative">
           <h3 class="text-center text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
-            Why Gunnar?
+            Why <span class="text-gb-600">Gunnar</span>?
           </h3>
           <p class="mt-4 max-w-3xl mx-auto text-center text-xl leading-7 text-gray-600">
             You could do things the old way, locked in to a single lender working 9-5 or you could do things the <span class="text-gb-600 font-bold">Gunnar</span> way which will save you money and spare you the headaches.
@@ -157,7 +157,7 @@
       <div class="relative max-w-screen-xl mx-auto px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
         <div class="md:ml-auto md:w-1/2 md:pl-10">
           <h2 class="mt-2 text-white text-3xl leading-9 font-extrabold tracking-tight sm:text-4xl sm:leading-10">
-            Gunnar's here to help
+            <span class="text-gb-400">Gunnar's</span> here to help
           </h2>
           <p class="mt-3 text-lg leading-7 text-gray-300">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, egestas tempus tellus etiam sed. Quam a scelerisque amet ullamcorper eu enim et fermentum, augue. Aliquet amet volutpat quisque ut interdum tincidunt duis.
