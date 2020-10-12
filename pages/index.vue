@@ -22,7 +22,7 @@
             Why Gunnar?
           </h3>
           <p class="mt-4 max-w-3xl mx-auto text-center text-xl leading-7 text-gray-600">
-            You could do things the old way, locked in to a single lender working 9-5 or you could do things the Gunnar way which will save you money and spare you the headaches.
+            You could do things the old way, locked in to a single lender working 9-5 or you could do things the <span class="text-gb-600 font-bold">Gunnar</span> way which will save you money and spare you the headaches.
           </p>
         </div>
 
@@ -176,7 +176,19 @@
 
 <script>
 export default {
-
+	head () {
+    return {
+      title: 'Gunnar Mortgage',
+      meta: [
+        { hid: 'description', name: 'description', content: "Make the mortgage or refi experience quick and painless. The one stop shop for all home financing needs."},
+        { hid: 'image', name: 'image', content: 'https://a.storyblok.com/f/72520/1200x630/eea158f374/link-preview.png' },
+        { name: 'twitter:card', content: "summary_large_image"},
+        { name: 'twitter:title', content: "Gunnar Mortgage"},
+        { name: 'twitter:description', content: "Make the mortgage or refi experience quick and painless. The one stop shop for all home financing needs."},
+        { name: 'twitter:image', content: "https://a.storyblok.com/f/72520/1200x630/eea158f374/link-preview.png"}
+      ]
+    }
+  },
 }
 </script>
 

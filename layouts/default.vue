@@ -18,10 +18,21 @@
             </svg>
           </a>
         </div>
-        <div class="mt-8 md:mt-0 md:order-1">
-          <p class="text-center text-base leading-6 text-white">
-            &copy; 2020 Gunnar Mortgage, All rights reserved.
-          </p>
+        <div class="mt-8 md:mt-0 md:order-1 flex items-center justify-center">
+          <div class="mr-4">
+            <p class="text-center text-base leading-6 text-white">
+              NMLS Company 1734358
+            </p>
+            <p class="text-center text-base leading-6 text-white">
+              NMLS Individual 1368590
+            </p>
+            <p class="text-center text-base leading-6 text-white">
+              215-870-8724
+            </p>
+          </div>
+          <div>
+            <img src="/house.png" alt="" class="w-20 h-auto">
+          </div>
         </div>
       </div>
     </footer>
