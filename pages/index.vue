@@ -22,7 +22,7 @@
             Why Gunnar?
           </h3>
           <p class="mt-4 max-w-3xl mx-auto text-center text-xl leading-7 text-gray-600">
-            You could do things the old way, locked in to a single lender working 9-5 or you could do things the Gunnar way which will save you money and spare you of headaches.
+            You could do things the old way, locked in to a single lender working 9-5 or you could do things the Gunnar way which will save you money and spare you the headaches.
           </p>
         </div>
 
