@@ -2,8 +2,8 @@ module.exports = {
     theme: {
       extend: {
         colors: {
-          'gb-100': '#9CD4FF',
-          'gb-200': '#88CBFF',
+          'gb-100': '#B7DFFF',
+          'gb-200': '#94D0FF',
           'gb-300': '#75C2FF',
           'gb-400': '#5AB7FF',
           'gb-500': '#41ACFF',
