@@ -22,7 +22,7 @@
             Why <span class="text-gb-600">Gunnar</span>?
           </h3>
           <p class="mt-4 max-w-3xl mx-auto text-center text-xl leading-7 text-gray-600">
-            You could do things the old way, locked in to a single lender working 9-5 or you could do things the <span class="text-gb-600 font-bold">Gunnar</span> way which will save you money and spare you the headaches.
+            You could do things the old way, or you could do things the <span class="text-gb-600 font-bold">Gunnar</span> way.
           </p>
         </div>
 
@@ -41,7 +41,7 @@
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">Dozens of Lenders</h5>
                     <p class="mt-2 text-base leading-6 text-gray-500">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                      Every lender has their niche, Gunnar has access to them all.
                     </p>
                   </div>
                 </div>
@@ -61,7 +61,7 @@
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">One Lender</h5>
                     <p class="mt-2 text-base leading-6 text-gray-500">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                      One Bank has access to one option, that's not Gunnar.
                     </p>
                   </div>
                 </div>
@@ -80,7 +80,7 @@
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">Competitive Rates</h5>
                     <p class="mt-2 text-base leading-6 text-gray-500">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                      Gunnar works for himself, by himself. Costs are low and rates are even lower.
                     </p>
                   </div>
                 </div>
@@ -100,7 +100,7 @@
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">No Rate Flexibilty</h5>
                     <p class="mt-2 text-base leading-6 text-gray-500">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                      With a bank you have one option, a higher rate due to the increased overhead. It's the opposite with Gunnar.
                     </p>
                   </div>
                 </div>
@@ -119,7 +119,7 @@
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">Available after Hours</h5>
                     <p class="mt-2 text-base leading-6 text-gray-500">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                      You can text or call Gunnar any time, try calling a bank after 4pm. Have fun in that phone menu!
                     </p>
                   </div>
                 </div>
@@ -139,7 +139,7 @@
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">Bankers Hours</h5>
                     <p class="mt-2 text-base leading-6 text-gray-500">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                      *ring ring ring* *robot voice* "Thank you for calling The Old Antequated Bank, please stay on hold for 3 hours"
                     </p>
                   </div>
                 </div>
@@ -160,7 +160,7 @@
             <span class="text-gb-400">Gunnar's</span> here to help
           </h2>
           <p class="mt-3 text-lg leading-7 text-gray-300">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Et, egestas tempus tellus etiam sed. Quam a scelerisque amet ullamcorper eu enim et fermentum, augue. Aliquet amet volutpat quisque ut interdum tincidunt duis.
+            Gunnar's here to help, killer rates, better communication, best experience.
           </p>
           <div class="rounded-md shadow mt-5 sm:mt-8">
             <a href="https://gunnarmortgage.floify.com/" target="_blank" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-gb-600 hover:bg-gb-500 focus:outline-none focus:border-gb-700 focus:shadow-outline-gb transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
