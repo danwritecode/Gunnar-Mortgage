@@ -160,7 +160,7 @@
             <span class="text-gb-400">Gunnar's</span> here to help
           </h2>
           <p class="mt-3 text-lg leading-7 text-gray-300">
-            Gunnar's here to help, killer rates, better communication, best experience.
+            Gunnar's here to help. Killer rates, better communication, the overall best experience.
           </p>
           <div class="rounded-md shadow mt-5 sm:mt-8">
             <a href="https://gunnarmortgage.floify.com/" target="_blank" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-gb-600 hover:bg-gb-500 focus:outline-none focus:border-gb-700 focus:shadow-outline-gb transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
