@@ -40,7 +40,7 @@
                   </div>
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">Dozens of Lenders</h5>
-                    <p class="mt-2 text-base leading-6 text-gray-500">
+                    <p class="mt-2 text-base leading-6 text-gray-600">
                       Dozens of Lenders means dozens of rates and terms to choose from. Why is flexbility good? Well it saves you money.
                     </p>
                   </div>
@@ -60,7 +60,7 @@
                   </div>
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">One Lender</h5>
-                    <p class="mt-2 text-base leading-6 text-gray-500">
+                    <p class="mt-2 text-base leading-6 text-gray-600">
                       With one lender you have the rate provided and that's it. That's your flexbility.
                     </p>
                   </div>
@@ -79,7 +79,7 @@
                   </div>
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">Competitive Rates</h5>
-                    <p class="mt-2 text-base leading-6 text-gray-500">
+                    <p class="mt-2 text-base leading-6 text-gray-600">
                       Gunnar works for himself, by himself. Costs are low and rates are even lower.
                     </p>
                   </div>
@@ -99,7 +99,7 @@
                   </div>
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">No Rate Flexibilty</h5>
-                    <p class="mt-2 text-base leading-6 text-gray-500">
+                    <p class="mt-2 text-base leading-6 text-gray-600">
                       With a bank you have one option, a higher rate due to the increased overhead. It's the opposite with Gunnar.
                     </p>
                   </div>
@@ -118,7 +118,7 @@
                   </div>
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">Available after Hours</h5>
-                    <p class="mt-2 text-base leading-6 text-gray-500">
+                    <p class="mt-2 text-base leading-6 text-gray-600">
                       You can text or call Gunnar any time, try calling a bank after 4pm. Have fun in that phone menu!
                     </p>
                   </div>
@@ -138,7 +138,7 @@
                   </div>
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">Bankers Hours</h5>
-                    <p class="mt-2 text-base leading-6 text-gray-500">
+                    <p class="mt-2 text-base leading-6 text-gray-600">
                       *ring ring ring* *robot voice* "Thank you for calling The Old Antiquated Bank, please stay on hold for 3 hours"
                     </p>
                   </div>
