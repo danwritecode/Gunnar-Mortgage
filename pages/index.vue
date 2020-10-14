@@ -179,7 +179,7 @@
 export default {
 	head () {
     return {
-      title: 'Gunnar Mortgage',
+      title: 'Mortgages the Gunnar Way',
       meta: [
         { hid: 'description', name: 'description', content: "Make the mortgage or refi experience quick and painless. The one stop shop for all home financing needs."},
         { hid: 'image', name: 'image', content: '/cta_banner.png' },
