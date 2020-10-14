@@ -19,10 +19,10 @@
       <div class="relative max-w-xl mx-auto px-4 sm:px-6 lg:px-8 lg:max-w-screen-xl">
         <div class="relative">
           <h3 class="text-center text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
-            Why <span class="text-gb-600">Gunnar</span>?
+            <span class="text-gb-600">Gunnar</span> Versus <span class="text-gray-500">the Banks</span>
           </h3>
           <p class="mt-4 max-w-3xl mx-auto text-center text-xl leading-7 text-gray-600">
-            You could do things the old way, or you could do things the <span class="text-gb-600 font-bold">Gunnar</span> way.
+            See how <span class="text-gb-600 font-bold">Gunnar</span> does business compared to the old antiquated banks. The difference is night and day.
           </p>
         </div>
 
@@ -41,7 +41,7 @@
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">Dozens of Lenders</h5>
                     <p class="mt-2 text-base leading-6 text-gray-500">
-                      Every lender has their niche, Gunnar has access to them all.
+                      Dozens of Lenders means dozens of rates and terms to choose from. Why is flexbility good? Well it saves you money.
                     </p>
                   </div>
                 </div>
@@ -61,7 +61,7 @@
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">One Lender</h5>
                     <p class="mt-2 text-base leading-6 text-gray-500">
-                      One Bank has access to one option, that's not Gunnar.
+                      With one lender you have the rate provided and that's it. That's your flexbility.
                     </p>
                   </div>
                 </div>
@@ -139,7 +139,7 @@
                   <div class="ml-4">
                     <h5 class="text-lg leading-6 font-medium text-gray-900">Bankers Hours</h5>
                     <p class="mt-2 text-base leading-6 text-gray-500">
-                      *ring ring ring* *robot voice* "Thank you for calling The Old Antequated Bank, please stay on hold for 3 hours"
+                      *ring ring ring* *robot voice* "Thank you for calling The Old Antiquated Bank, please stay on hold for 3 hours"
                     </p>
                   </div>
                 </div>
