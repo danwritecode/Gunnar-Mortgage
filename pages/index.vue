@@ -3,7 +3,7 @@
     <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 pt-10 sm:pt-24 items-center mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
       <div class="text-center sm:text-left">
         <h3 class="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl lg:text-5xl xl:text-6xl">Mortgages the <span class="text-gb-600">Gunnar</span> way</h3>
-        <p class="mt-3 max-w-md mx-auto text-lg text-gray-600 sm:text-xl md:mt-5 md:max-w-3xl">Make the mortgage or refi experience quick and painless. The one stop shop for all home financing needs.</p>
+        <p class="mt-3 max-w-md mx-auto text-lg text-gray-600 sm:text-xl md:mt-5 md:max-w-3xl">Make your mortgage experience painless with Gunnar Mortgage. The one-stop shop for all your home financing needs.</p>
         <div class="rounded-md shadow-lg mt-5 sm:mt-8">
           <a href="https://gunnarmortgage.floify.com/" target="_blank" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-gb-600 hover:bg-gb-500 focus:outline-none focus:border-gb-700 focus:shadow-outline-gb transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
             Get started
@@ -181,11 +181,11 @@ export default {
     return {
       title: 'Mortgages the Gunnar Way',
       meta: [
-        { hid: 'description', name: 'description', content: "Make the mortgage or refi experience quick and painless. The one stop shop for all home financing needs."},
+        { hid: 'description', name: 'description', content: "Make your mortgage experience painless with Gunnar Mortgage. The one-stop shop for all your home financing needs."},
         { hid: 'image', name: 'image', content: '/cta_banner.png' },
         { name: 'twitter:card', content: "summary_large_image"},
         { name: 'twitter:title', content: "Gunnar Mortgage"},
-        { name: 'twitter:description', content: "Make the mortgage or refi experience quick and painless. The one stop shop for all home financing needs."},
+        { name: 'twitter:description', content: "Make your mortgage experience painless with Gunnar Mortgage. The one-stop shop for all your home financing needs."},
         { name: 'twitter:image', content: "/cta_banner.png"}
       ]
     }
