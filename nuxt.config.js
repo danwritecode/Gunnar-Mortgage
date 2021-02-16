@@ -15,7 +15,10 @@ export default {
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap' },
-    ]
+    ],
+    script: [
+      { src: 'https://maps.googleapis.com/maps/api/js?key=AIzaSyAjZwTHc0Fo61N8Vnaw6bTR9yzfHY1IKHc&libraries=places' }
+    ],
   },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
@@ -36,6 +39,7 @@ export default {
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
+    '@nuxtjs/axios'
   ],
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
