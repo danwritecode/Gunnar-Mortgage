@@ -17,7 +17,7 @@ export default {
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap' },
     ],
     script: [
-      { src: 'https://maps.googleapis.com/maps/api/js?key=AIzaSyAjZwTHc0Fo61N8Vnaw6bTR9yzfHY1IKHc&libraries=places' }
+    
     ],
   },
 
