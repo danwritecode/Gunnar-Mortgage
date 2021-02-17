@@ -217,7 +217,7 @@ export default {
         { name: 'twitter:card', content: "summary_large_image"},
         { name: 'twitter:title', content: "Gunnar Mortgage"},
         { name: 'twitter:description', content: "Make your mortgage experience painless with Gunnar Mortgage. The one-stop shop for all your home financing needs."},
-        { name: 'twitter:image', content: "/cta_banner.png"}
+        { name: 'twitter:image', content: "https://raw.githubusercontent.com/nelsynelz/Gunnar-Mortgage/main/static/cta_banner.png"}
       ]
     }
   },
