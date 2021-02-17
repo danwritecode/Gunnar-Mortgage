@@ -44,7 +44,7 @@
 
         <div class="relative">
           <h3 id="learn-more" class="text-3xl sm:text-5xl lg:text-6xl leading-none font-extrabold text-gray-900 tracking-tight mb-1">
-            Gunnar versus the Banks
+            <span class="text-gb-600">Gunnar</span> versus the <span class="text-gray-600">Banks</span>
           </h3>
           <p class="max-w-4xl text-lg sm:text-2xl font-medium sm:leading-10 space-y-6 mb-6 text-gray-600">
             See how Gunnar does business compared to the old antiquated banks. The difference is night and day.
