@@ -12,7 +12,8 @@ exports.handler = async function(event, context) {
 
   try {
     const reviewsResp = await axios.get(`https://maps.googleapis.com/maps/api/place/details/json?reference=${businessRefId}&key=${placesKey}`)
-    console.log(reviewsResp.data.result.reviews)
+    console.log(reviewsResp)
+    // console.log(reviewsResp.data.result.reviews)
 
     return {
       statusCode: 200,
