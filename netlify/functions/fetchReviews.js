@@ -2,10 +2,8 @@ const axios = require("axios");
 
 exports.handler = async function(event, context) {
 
-  console.log(process.env)
-
   const https = require('https');
-  const placesKey = 'AIzaSyC6I3QJMutEvzOJn7IEI6k_Y9gbLtkRd30'
+  const placesKey = process.env.PLACES_API_KEY
   const businessRefId = 'ChIJL3h4cDZSwYkRfOFZXZEm0SM'
   const headers = {
     "Access-Control-Allow-Origin": "*",
@@ -15,7 +13,6 @@ exports.handler = async function(event, context) {
   try {
     const reviewsResp = await axios.get(`https://maps.googleapis.com/maps/api/place/details/json?place_id=${businessRefId}&key=${placesKey}`)
     console.log(reviewsResp)
-    // console.log(reviewsResp.data.result.reviews)
 
     return {
       statusCode: 200,
