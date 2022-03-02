@@ -2,8 +2,8 @@
   <div>
     <Nuxt />
 
-    <footer class="bg-gray-800">
-      <div class="max-w-screen-xl mx-auto py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
+    <footer class="bg-gray-800 fixed bottom-0 w-full">
+      <div class="max-w-screen-xl mx-auto py-4 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
         <div class="flex justify-center space-x-6 md:order-3">
           <a href="https://facebook.com/GunnarFinancial" target="_blank" class="text-white hover:text-gb-600 transition ease-in-out duration-300">
             <span class="sr-only">Facebook</span>
@@ -18,12 +18,12 @@
             </svg>
           </a>
         </div>
-        <div class="mt-8 md:mt-0 md:order-1">
-          <div class="mt-4 flex justify-center sm:justify-start items-center text-white">
+        <div class="mt-8 md:mt-0 md:order-1 flex-col items-center">
+          <div class="flex justify-center sm:justify-start items-center text-white">
             <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
             </svg>
-            <p class="font-medium ml-2">gunnar@gunnarmortgage.com</p>
+            <p class="font-medium ml-2">Gunnar.bolf@movement.com</p>
           </div>
           <div class="mt-1 flex justify-center sm:justify-start items-center text-white">
             <svg class="h-5 w-5"  xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -32,17 +32,14 @@
             <p class="font-medium ml-2">(215) 870-8724</p>
           </div>
         </div>
-        <div class="flex items-center justify-center pb-4 md:order-2 mt-8 md:mt-0">
+        <div class="flex items-center justify-center md:order-2 mt-8 md:mt-0">
           <div class="mr-4">
-            <p class="text-center text-base leading-6 text-white font-medium">
-              NMLS Company 1734358
-            </p>
             <p class="text-center text-base leading-6 text-white font-medium">
               NMLS Individual 1368590
             </p>
           </div>
           <div>
-            <img src="/house.png" alt="" class="w-20 h-auto">
+            <img src="/house.png" alt="" class="w-auto h-12">
           </div>
       </div>
       </div>

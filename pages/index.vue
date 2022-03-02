@@ -1,11 +1,10 @@
 <template>
   <div>
-    <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 pb-40 lg:pb-64 pt-10 sm:pt-24 items-center mt-10 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
+    <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 items-center mt-10 mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8" style="min-height:70vh;">
       <div class="text-center sm:text-left">
         <h3 class="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl lg:text-5xl xl:text-6xl">Mortgages the <span class="text-gb-600">Gunnar</span> way</h3>
-        <p class="mt-3 text-lg sm:text-2xl font-medium sm:leading-10 space-y-6 mb-6 text-gray-600">Make your mortgage experience painless with Gunnar Mortgage. The one-stop shop for purchasing and refinancing.</p>
         <div class="rounded-md shadow-lg mt-5 sm:mt-8">
-          <a href="https://www.blink.mortgage/app/signup/p/GunnarMortgage/gogunnar?campaign=GetApproved" target="_blank" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-gb-600 hover:bg-gb-500 focus:outline-none focus:border-gb-700 focus:shadow-outline-gb transition duration-300 ease-in-out md:py-4 md:text-lg md:px-10">
+          <a href="https://lo.movement.com/gunnar-bolf/home" target="_blank" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-gb-600 hover:bg-gb-500 focus:outline-none focus:border-gb-700 focus:shadow-outline-gb transition duration-300 ease-in-out md:py-4 md:text-lg md:px-10">
             Get started
           </a>
         </div>
@@ -15,7 +14,7 @@
       </div>
     </div>
 
-    <div class="pb-40 overflow-hidden lg:pb-64">
+    <!-- <div class="pb-40 overflow-hidden lg:pb-64">
       <div class="relative max-w-xl mx-auto px-4 sm:px-6 lg:px-8 lg:max-w-screen-xl">
 
         <div>
@@ -199,7 +198,7 @@
         </div>
 
       </div>
-    </div>
+    </div> -->
 
   </div>
 </template>
