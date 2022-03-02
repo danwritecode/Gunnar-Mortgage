@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 items-center mt-10 mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8" style="min-height:70vh;">
+    <div class="grid grid-cols-1 gap-4 sm:grid-cols-2 items-center mt-10 mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8 pt-20 pb-24 sm:py-0" style="min-height:70vh;">
       <div class="text-center sm:text-left">
         <h3 class="text-4xl tracking-tight leading-10 font-extrabold text-gray-900 sm:text-5xl sm:leading-none md:text-6xl lg:text-5xl xl:text-6xl">Mortgages the <span class="text-gb-600">Gunnar</span> way</h3>
         <div class="rounded-md shadow-lg mt-5 sm:mt-8">
@@ -10,7 +10,7 @@
         </div>
       </div>
       <div class="flex justify-center sm:justify-end mt-10 sm:mt-0">
-        <img src="/logo.png" alt="" class="rounded-full">
+        <img src="/logo.png" alt="" class="rounded-full h-64 w-auto sm:h-auto">
       </div>
     </div>
 

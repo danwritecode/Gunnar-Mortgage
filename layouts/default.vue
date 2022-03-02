@@ -2,7 +2,7 @@
   <div>
     <Nuxt />
 
-    <footer class="bg-gray-800 fixed bottom-0 w-full">
+    <footer class="bg-gray-800 sm:fixed bottom-0 w-full">
       <div class="max-w-screen-xl mx-auto py-4 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
         <div class="flex justify-center space-x-6 md:order-3">
           <a href="https://facebook.com/GunnarFinancial" target="_blank" class="text-white hover:text-gb-600 transition ease-in-out duration-300">
